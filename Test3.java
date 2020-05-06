@@ -1,14 +1,7 @@
-class Test{
+class Test3{
 	public static void main(String[] args){
-
-		System.out.println("Hell_o world");
-		System.out.println("Hell world");
-		// g
+		System.out.println("test3");
+		
 	}
-	
 
 }
-
-
-
-
