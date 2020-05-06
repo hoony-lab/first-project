@@ -4,7 +4,6 @@ class Test{
 		System.out.println("Hell_o world");
 		System.out.println("Hell world");
 		// g
-		// gg revert testttt
 	}
 	
 
